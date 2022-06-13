@@ -1,0 +1,55 @@
+1.customer
+->customerId   (only for table.)
+->customerFirstName
+->customerLastName
+->customerAddress
+->customerContactNumber
+->customerEmailId
+->customerPassword
+
+2.registration   (not a table)
+->first name
+->last name
+->email id
+->address
+->password
+
+3.placeOrderConfirmation   (not a table)
+->name
+->address
+->phone number
+->proceed   (button)
+->change    (button)
+
+4.product
+->productId
+->productType
+->productPrice
+->productSize
+->productColour
+->productAvailableQuantity
+->productSpecification
+->productMaterial
+->productImage
+->productTag
+
+5.cart
+->cartId
+->customerId
+->productId
+->orderQuantity
+
+6.admin
+->adminFirstName
+->adminLastName
+->adminEmailId
+->adminPassword
+
+7.orderTable
+->orderNo
+->customerId
+->orderDate
+->orderStatus
+->deliveryDate
+
+

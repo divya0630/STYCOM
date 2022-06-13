@@ -1,0 +1,9 @@
+1.Gathering and naming photos.
+
+2.Database
+
+3.Frontend
+->Organization
+->Product Page
+
+4.Code
